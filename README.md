@@ -1,5 +1,5 @@
 # Product-Review-Analysis-using-NLP
-This was one of my university projects while learning the basics of ML algorithms and testing out different outcomes.
+This was one of my university projects while learning the basics of ML algorithms and analyzing different outcomes.
 
 Identification of sentiments in product reviews.  
 Identifying possible spam reviews.  
